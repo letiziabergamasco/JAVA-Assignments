@@ -2,4 +2,5 @@
 
 Assignment 1: Triangle.java, Sort.java
 
-Assignment 2: first version = , new version =
+Assignment 2: first version => parking/management, 
+NEW VERSION => plaza/design
